@@ -16,7 +16,7 @@ class RandomNum():
 
 start = input("Starting Number: ")
 end = input("Ending Number: ")
-num = input("Number Amount: ")
+num = input("Amount of Numbers: ")
 
 
 x = RandomNum(int(start), int(end), int(num))
