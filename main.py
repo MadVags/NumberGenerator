@@ -25,4 +25,5 @@ for _ in range(int(num)):
     try:
         print(x.__RandNum__())
     except:
-        print("Done")
+        print("Finished")
+
